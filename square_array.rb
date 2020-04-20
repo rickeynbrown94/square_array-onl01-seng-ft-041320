@@ -1,6 +1,5 @@
 def square_array(numbers)
-  numbers = [1,2,3]
-  square_array.each{ |{numbers}| 
+  square_array.each{ |{numbers}| puts numbers.sqrt}
  end
   
 end
