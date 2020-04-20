@@ -1,5 +1,5 @@
 def square_array(numbers)
-  numbers = []
+  numbers = [1,2,3]
   square_array.each do |numbers|
     #{numbers}.sqrt
   end
