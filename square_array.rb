@@ -1,7 +1,8 @@
 def square_array(numbers)
-  numbers = [1,2,3]
+  numbers = [,,]
   numbers. each do |numbers|
+    numbers**2
+  end
     
-    return numbers
   end
 end
